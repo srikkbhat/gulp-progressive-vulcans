@@ -23,7 +23,7 @@
     "vulcan",
     "web",
     "components",
-    "web-component"
+    "web-components"
   ],
   "dependencies": {
     "progressive-vulcans": "file:/home/srikkbhat/Projects/node/progressive-vulcans",
